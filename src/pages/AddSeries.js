@@ -4,8 +4,8 @@ const AddSeries = () => {
     return (
         <div>
             <h1> 
-                Add a New Series Page
-               < AddSeriesForm></AddSeriesForm>
+                Add +
+               < AddSeriesForm/>
             </h1>
         </div>
     )
