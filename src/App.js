@@ -15,7 +15,8 @@ function App() {
      <BrowserRouter>
      <Navbar/>
      <div className='pages'>
-      <Routes>
+      <Routes> 
+        {/* rahat is teaching gitHub */}
           <Route 
             path = "/" 
             element = {<Home/>}>
